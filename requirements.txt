@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+opencv-python
+pytesseract
+pdfplumber
+fpdf
+scikit-learn
+Pillow
+matplotlib

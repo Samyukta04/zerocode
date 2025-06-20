@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.zerocode-env/
+zerocode-env/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Environment files
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output & generated files
+output/
+*.json
+*.log
+
+# PDFs and sample inputs (optional to ignore)
+EcoNova_StyleGuide.pdf
+sample_inputs/*.png
+sample_inputs/*.jpg
+sample_inputs/*.jpeg
+
+# Hugging Face and model cache
+.cache/
+models/
+*.safetensors
+*.bin
+
+# Pip wheels
+*.whl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
