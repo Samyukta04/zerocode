@@ -61,7 +61,7 @@ python task2.py
 ## 📦 Project Structure
 
 ```
-ZCAIML_Assignment/
+Zerocode/
 └── output/
     ├── identity_vector.json
     └── theme_config.json
