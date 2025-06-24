@@ -61,4 +61,4 @@ os.makedirs("output", exist_ok=True)
 with open("output/identity_vector.json", "w") as f:
     json.dump(final_vector.tolist(), f)
 
-print("✅ Identity vector saved to output/identity_vector.json")
+print("Identity vector saved to output/identity_vector.json")

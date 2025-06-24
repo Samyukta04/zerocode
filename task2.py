@@ -23,4 +23,4 @@ os.makedirs("output", exist_ok=True)
 with open("output/theme_config.json", "w") as f:
     json.dump({"theme_description": response}, f)
 
-print("✅ Theme config saved to output/theme_config.json")
+print("Theme config saved to output/theme_config.json")
